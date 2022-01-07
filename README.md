@@ -30,5 +30,6 @@ step 4:
 rosrun visp_hand2eye_calibration visp_hand2eye_calibration_client
 rosrun visp_hand2eye_calibration visp_hand2eye_calibration_calibrator
 
-Then run  hand_eye.py  
+Then run  hand_eye.py  ![github](https://user-images.githubusercontent.com/70017164/148499184-e43c8a3a-8ad7-4ec1-865b-4594687b60af.jpg)
+
 move the arm and follow procedure prompts
