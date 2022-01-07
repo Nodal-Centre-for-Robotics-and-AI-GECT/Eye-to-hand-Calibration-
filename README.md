@@ -23,11 +23,12 @@ Step 2: Experiment setup
 
 attach the camera to the base link  of the robot
 
-Step 3: Bring up the camera and robot
+Step 3: inster test.launch in the launch folder of aruco_hand_eye package
+Bring up the camera and robot
 by lauching test.launch in aruco_hand_eye package
 step 4: 
 rosrun visp_hand2eye_calibration visp_hand2eye_calibration_client
 rosrun visp_hand2eye_calibration visp_hand2eye_calibration_calibrator
 
-Then python calibrate.py  in the folder scripts in aruco_hand_eye
+Then run  hand_eye.py  
 move the arm and follow procedure prompts
