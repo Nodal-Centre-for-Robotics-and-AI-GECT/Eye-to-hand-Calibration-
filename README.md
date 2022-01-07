@@ -11,7 +11,7 @@ This is a package to perform the  eye to hand  calibration to get the transforma
 
 2. ROS Package Dependencies
 
-    aubo_robot
+    aubo_robot  ( https://github.com/Nodal-Centre-for-Robotics-and-AI-GECT/aubo_i5_pick-and-place)
     kinect2_bridge (https://github.com/code-iai/iai_kinect2)
     visp_hand2eye_calibration (http://wiki.ros.org/visp_hand2eye_calibration)
     aruco_ros    (http://wiki.ros.org/aruco_ros)
